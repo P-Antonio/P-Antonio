@@ -7,7 +7,8 @@ programador Back-end con java
 ![Static Badge](https://img.shields.io/badge/git-%23F05032logo%3Dgit?style=for-the-badge&logo=git&logoColor=%23F05032&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/GitHub-%23181717logo%3DGitHub?style=for-the-badge&logo=GitHub&labelColor=black&color=orange)
 ![Static Badge](https://img.shields.io/badge/MySQL-%234479A1logo%3DMySQL?style=for-the-badge&logo=MySQL&labelColor=white&color=blue)
-![Static Badge](https://img.shields.io/badge/MongoDB-%234479A1logo%2347A248)
+![Static Badge](https://img.shields.io/badge/MongoDB-%2347A248?logo=mongodb&labelColor=black&color=green)
+
 
 <br>
 ### Framework:
