@@ -26,6 +26,8 @@ Programador back-end utilizando java, me gusta el aprendizaje continuo y ponerlo
 ![Static Badge](https://img.shields.io/badge/Spring%20Boot%203-%236D33Flogo%3DSpring%20Boot?style=for-the-badge&logo=Spring%20Boot&labelColor=gray)
 <br>
 
+#### Redes:
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/antonio-leon-perfil/)  
 <!--
 **P-Antonio/P-Antonio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
